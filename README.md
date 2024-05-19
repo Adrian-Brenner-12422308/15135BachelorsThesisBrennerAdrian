@@ -1,4 +1,4 @@
-# 15135BachelorsThesis_BrennerAdrian
+# 15135BachelorsThesisBrennerAdrian
 
 This Repository includes the code files, dataset (survey) and do-files for the Bachelor's Thesis of Adrian Brenner (GSI LMU). (The prolonging Abyssinian Crisis - Contemporary conflict politics of the Ethiopian government)
 
