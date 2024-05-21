@@ -3,3 +3,6 @@ This file contains the total conducted survey information of all locations.
 405 survey attempts.
 29 invalid.
 203 valid.
+
+Note here that a valid survey does not automatically equal in every participants answering all question.
+As such several questions do not add up to the total of 203.
