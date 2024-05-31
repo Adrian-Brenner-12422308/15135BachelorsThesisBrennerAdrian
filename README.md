@@ -6,4 +6,4 @@ The survey results are split into location-based folders (the location in which 
 
 Note that this survey and work was not done on behalf of the GSI LMU but represents a personal study required for this Bachelor Thesis. For any questions regarding replication and/or issues in reading files please contact Adrian.Brenner@lmu.campus.de
 
-DAUERLINK: https://github.com/Adrian-Brenner-12422308/15135BachelorsThesis_BrennerAdrian
+DAUERLINK: https://github.com/Adrian-Brenner-12422308/15135BachelorsThesisBrennerAdrian
