@@ -6,3 +6,6 @@ This file contains the total conducted survey information of all locations.
 
 Note here that a valid survey does not automatically equal in every participants answering all question.
 As such several questions do not add up to the total of 203.
+
+Further note that people who instantly rejected the survey were not counted towards survey attempts,
+only people who were initially interested but decided not to proceed upon being handed the survey physically are attributed to a survey attempt.
